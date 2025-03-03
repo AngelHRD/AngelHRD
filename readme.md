@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🎵 Blind Test Project</h3>
+      <h3 align="center">Blind Test Project</h3>
       <div align="center">
         <a href="https://github.com/AngelHRD/BlindTestProjet">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelHRD&repo=BlindTestProjet&theme=radical" alt="Blind Test Project" />
@@ -28,7 +28,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Portfolio Website</h3>
+      <h3 align="center">Portfolio Website</h3>
       <div align="center">
         <a href="https://github.com/AngelHRD/Portfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelHRD&repo=Portfolio&theme=radical" alt="Portfolio Project" />
